@@ -1,6 +1,6 @@
 # Finance Integration Dashboard
 
-A comprehensive Flask application for financial data analysis and visualization of coffee and beverage companies.
+A comprehensive Flask application for financial data analysis and visualization for real time updates and performance optimization
 
 [![Python](https://img.shields.io/badge/Python-3.10%2B-blue.svg)](https://python.org)
 [![Flask](https://img.shields.io/badge/Flask-2.0%2B-green.svg)](https://flask.palletsprojects.com/)
@@ -102,9 +102,6 @@ python app.py
 - Modular chart utilities for improved code organization
 - Enhanced service architecture with BaseDataService pattern
 
-## License
-
-This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
 
 ---
 
